@@ -2,7 +2,7 @@
 
 **Name:** Prince William  
 **Student ID:** 11308636  
-**Course:** DCIT 318 – Software Engineering  
+**Course:** DCIT 318   
 **Assignment:** Console Applications – C#
 
 ## Overview
