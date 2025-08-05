@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <!-- Disable C# top-level statements so Main() is used: -->
+    <EnableTopLevelStatements>false</EnableTopLevelStatements>
+  </PropertyGroup>
+</Project>
